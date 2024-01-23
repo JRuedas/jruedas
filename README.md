@@ -19,8 +19,4 @@ I'm a DevOps engineer living in Madrid. I'm intersted on DevOps, SRE, Cloud, and
 - 🌱 I’m currently learning Python and Golang.
 - 🦸🏻 Fun fact: I love comic books, specially DC.
 
-<p align="center">
-
 [![Jruedas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jruedas&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
