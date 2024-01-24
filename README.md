@@ -13,7 +13,7 @@
 
 About me
 ---
-I'm a DevOps engineer living in Madrid. I'm intersted on DevOps, SRE, Cloud, and Software development.
+I'm a DevOps engineer from Madrid. I'm interested in DevOps, SRE, Cloud and software development.
 
 - 🔭 I’m currently working on improving my Python skills.
 - 🌱 I’m currently learning Python and Golang.
