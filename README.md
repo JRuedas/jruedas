@@ -11,12 +11,12 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-About me
+😉 About me
 ---
 I'm a DevOps engineer from Madrid. I'm interested in DevOps, SRE, Cloud and software development.
 
-- 🔭 I’m currently working on improving my Python skills.
-- 🌱 I’m currently learning Python and Golang.
+- 👷 I’m currently working on improving my Python skills.
+- 📚 I’m learning Python and Golang.
 - 🦸🏻 Fun fact: I love comic books, specially DC.
 
 [![Jruedas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jruedas&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
