@@ -1,5 +1,3 @@
-![Header](./jruedas-github-header.png)
-
 💻 Technologies
 ---
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
@@ -16,7 +14,7 @@
 I'm a DevOps engineer from Madrid. I'm interested in DevOps, SRE, Cloud and software development.
 
 - 👷 I’m currently working on improving my Python skills.
-- 📚 I’m learning Python and Golang.
+- 📚 I want to learn Golang.
 - 🦸🏻 Fun fact: I love comic books, specially DC.
 
 [![Jruedas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jruedas&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
